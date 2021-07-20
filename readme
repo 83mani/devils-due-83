@@ -1,0 +1,13 @@
+sudo apt-get update
+# For sql-client
+sudo apt-get install mysql-client
+
+# For python related frameworks
+
+sudo apt-get install python3
+sudo apt-get install python3-flask
+sudo apt-get install python3-pymysql
+sudo apt-get install python3-boto3
+
+# For running app
+sudo python3 mani1.py
